@@ -8,6 +8,7 @@ __pycache__/
 
 # data
 data/
+submissions/
 
 # kaggle items
 march-machine-learning-mania-2023/
